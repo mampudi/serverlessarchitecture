@@ -85,8 +85,8 @@ Define: A serverless Architecture trades control and customerzation for increase
 5. API Gateway
 6. Dynamo DB Service
 
-# IAM - Identity and Access Management
-1. 
+# IAM - Identity and Access Management Concepts
+1. User
 
 # AWS Lamda
 1. Cloud watch logs
