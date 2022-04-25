@@ -3,7 +3,7 @@
 - [Serverless Architecture](#ServerlessArchitecture)
 - [Identity and Access Management](#IdentityandAccessManagement)
 
-# Serverless Architecture
+# Serverless Architecture Report
 
 Define: A Serverless Architecture trades control and customization for increased development speed and reduced maintenance 
         The cloud provider runs the server and dynamically manages the allocation of machine resources
