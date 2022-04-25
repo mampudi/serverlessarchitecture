@@ -1,8 +1,6 @@
 #### Table of Contents
 
 - [Serverless Architecture](#ServerlessArchitecture)
-- [Indent](#indent)
-- [Center](#center)
 - [Identity and Access Management](#IdentityandAccessManagement)
 
 # Serverless Architecture
